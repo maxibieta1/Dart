@@ -1,2 +1,2 @@
 # Dart
-Repositrio de aprendisaje de la programacion en Dart
+Repositrio de aprendizaje de la programacion en Dart
